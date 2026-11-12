@@ -1,6 +1,5 @@
-
 // Set this to your verified, publicly accessible APK URL when your release is ready.
-const APK_URL = '';
+const APK_URL = 'https://github.com/creermegan-dev/cots-capstone/releases/download/v1.0.4/COTS-Monitor-v1.0.4-android.apk';
 
 // Mobile navigation
 const toggle = document.querySelector('.menu-toggle');
